@@ -6,7 +6,6 @@
 
 <div align="center">
   <a href="http://thecoordinates.xyz" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-thecoordinates.xyz-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website: thecoordinates.xyz"></a>
-  <a href="https://github.com/jonathanicq" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"></a>
 </div>
 
 <br>
