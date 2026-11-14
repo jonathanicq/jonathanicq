@@ -37,7 +37,11 @@
 
 **Top skills:** Internet of Things (IoT) · Automation · University teaching
 
-**Languages:** Portuguese (native) · English (full professional) · French (professional working) · Spanish (elementary)
+**Languages:**
+<img src="https://flagcdn.com/w40/pt.png" height="16" alt="Portugal flag"> Portuguese (native) ·
+<img src="https://flagcdn.com/w40/gb.png" height="16" alt="UK flag"> English (full professional) ·
+<img src="https://flagcdn.com/w40/fr.png" height="16" alt="France flag"> French (professional working) ·
+<img src="https://flagcdn.com/w40/es.png" height="16" alt="Spain flag"> Spanish (elementary)
 
 ## 🚀 Public projects
 
