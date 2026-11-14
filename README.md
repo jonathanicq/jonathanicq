@@ -40,13 +40,15 @@
 
 Some work is in private repositories. Summaries only:
 
-- **Automation for church services**: prepares worship-service content from plain-language requests to AI assistants. `JavaScript`
-- **Expense and receipt tracker**: web and mobile app for managing expenses. `TypeScript`
-- **AI usage monitor**: watches AI service limits and sends alerts when they free up. `Python`
-- **Media archiving**: automatically downloads and organizes videos from chat groups to network storage. `Python`
-- **Storage cleanup**: finds and organizes duplicate files on a NAS. `Python`
-- **Records API**: small service for reading and processing database records. `Python`
-- **Accessibility app**: information on step-free metro access. `In planning`
+| Project | What it does | Stack |
+|---|---|---|
+| Church service automation | Prepares worship-service content from plain-language requests to AI assistants | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| Expense and receipt tracker | Web and mobile app for managing expenses and receipts | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| AI usage monitor | Watches AI service limits and sends alerts when they free up | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| Media archiving | Downloads and organizes videos from chat groups to network storage | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| Storage cleanup | Finds and organizes duplicate files on a NAS | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| Records API | Small service for reading and processing database records | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| Accessibility app | Information on step-free metro access | ![Planning](https://img.shields.io/badge/-In%20planning-555555?style=flat-square) |
 
 ## 📊 GitHub activity
 
