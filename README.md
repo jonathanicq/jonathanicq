@@ -6,6 +6,8 @@
 
 <div align="center">
   <a href="http://thecoordinates.xyz" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-thecoordinates.xyz-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website: thecoordinates.xyz"></a>
+  <a href="https://www.linkedin.com/in/jonathannlima/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Jonathan Lima"></a>
+  <a href="mailto:jonathan.lima@thecoordinates.xyz"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: jonathan.lima@thecoordinates.xyz"></a>
 </div>
 
 <br>
@@ -56,12 +58,3 @@ Some work is in private repositories. Summaries only:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonathanicq&theme=github_dark" alt="Jonathan Lima's repositories by language" height="165">
 </p>
 
-## 📫 Contact
-
-<div align="center">
-  <a href="http://thecoordinates.xyz" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website: thecoordinates.xyz"></a>
-  <a href="https://www.linkedin.com/in/jonathannlima/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Jonathan Lima"></a>
-  <a href="mailto:jonathan.lima@thecoordinates.xyz"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: jonathan.lima@thecoordinates.xyz"></a>
-</div>
-
-<p align="center"><code>jonathan.lima@thecoordinates.xyz</code></p>
