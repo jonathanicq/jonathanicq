@@ -29,6 +29,16 @@
 - Monitoring and automation for self-hosted services
 - Tools that connect LLMs to everyday systems
 
+## 🎓 Teaching and certifications
+
+- Adjunct Professor, IoT and Automation, Master of Global e-Business, University of Lille (since 2024)
+- Certificate of completion: Claude 101 (Anthropic)
+- Product Owner Foundation · Scrum Master Foundation · Six Sigma Yellow Belt
+
+**Top skills:** Internet of Things (IoT) · Automation · University teaching
+
+**Languages:** Portuguese (native) · English (full professional) · French (professional working) · Spanish (elementary)
+
 ## 🚀 Public projects
 
 | Project | What it does | Stack |
