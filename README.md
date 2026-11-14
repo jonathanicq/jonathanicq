@@ -60,6 +60,7 @@ Some work is in private repositories. Summaries only:
 
 <div align="center">
   <a href="http://thecoordinates.xyz" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website: thecoordinates.xyz"></a>
+  <a href="https://www.linkedin.com/in/jonathannlima/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Jonathan Lima"></a>
   <a href="mailto:jonathan.lima@thecoordinates.xyz"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: jonathan.lima@thecoordinates.xyz"></a>
 </div>
 
