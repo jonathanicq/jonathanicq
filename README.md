@@ -41,12 +41,15 @@
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonathanicq&show_icons=true&theme=github_dark" alt="Jonathan Lima's GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanicq&layout=compact&theme=github_dark" alt="Jonathan Lima's most used languages" height="165">
+  <img src="https://streak-stats.demolab.com/?user=jonathanicq&theme=github-dark&hide_border=true" alt="Jonathan Lima's GitHub contribution streak">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jonathanicq&theme=github_dark" alt="Jonathan Lima's repositories by language" height="165">
 </p>
 
 ## 📫 Contact
 
 <div align="center">
   <a href="http://thecoordinates.xyz" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website: thecoordinates.xyz"></a>
+  <a href="mailto:jonathan.lima@thecoordinates.xyz"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: jonathan.lima@thecoordinates.xyz"></a>
 </div>
+
+<p align="center"><code>jonathan.lima@thecoordinates.xyz</code></p>
